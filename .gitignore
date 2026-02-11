@@ -1,0 +1,14 @@
+# Entorno virtual
+.venv/
+
+# Cachés y temporales
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
