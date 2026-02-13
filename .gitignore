@@ -1,6 +1,9 @@
 # Entorno virtual
 .venv/
 
+#Resultados modelo
+Resultados/
+
 # Cachés y temporales
 __pycache__/
 *.pyc
